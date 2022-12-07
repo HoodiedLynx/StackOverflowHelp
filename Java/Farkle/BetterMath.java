@@ -1,6 +1,4 @@
-package Java.BetterMath;
-
-import Java.BetterPrint.*;
+package Java.Farkle;
 
 public class BetterMath
 {
