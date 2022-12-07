@@ -1,4 +1,4 @@
-package Java.BetterPrint;
+package Java.Farkle;
 
 public class BetterPrint{
   public void printStr(String input)
